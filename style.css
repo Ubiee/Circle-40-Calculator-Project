@@ -58,7 +58,7 @@ body {
 
 .zero {
   grid-column: span 2;
-  border-radius: 13px;
+  border-radius: 15px;
 }
 
 .equals {
